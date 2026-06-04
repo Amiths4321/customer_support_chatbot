@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+langchain-ollama
+duckduckgo-search
+streamlit
+markdown
+requests
